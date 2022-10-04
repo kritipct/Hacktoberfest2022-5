@@ -61,7 +61,7 @@
 </tr>
 </tbody></table>
 
-## Verified participants <!-- current year start -->2022<!-- current year end -->
+## Other programs <!-- current year start -->2022<!-- current year end -->
 <!-- verified start -->
 | Who / Sponsors | What | How | Additional Details |
 | :---: | :---: | :---: | --- |
